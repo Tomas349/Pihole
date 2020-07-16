@@ -390,6 +390,7 @@ app.pr0gramm.com
 app.slushpool.com
 app.youbit.co.kr
 app.zdash.cloud
+apperdenta.com
 apps.cointraffic.io
 apps.ledgerwallet.com
 apps2.cointraffic.io
@@ -936,6 +937,7 @@ cdjs.online
 cdn-analytics.pl
 cdn.adless.io
 cdn.doublepimpssl.com
+cdn.lvsys.com
 cdn.ravenjs.com
 cdn.runative-syndicate.com
 cdn.zopim.com
@@ -1075,6 +1077,7 @@ cogxsnvqesph.com
 coin-hive-proxy-ybydcnjgkl.now.sh
 coinhive.com
 coins.arstechnica.com
+cointrazer.com
 coiphezlzpl.bid
 cokrrmzagaxn.com
 colnhive.com
@@ -1175,6 +1178,7 @@ cqoxufzgev.bid
 cqoyvpldkmqt.com
 cqskvtpeqcp.bid
 cqsmswwidrn.bid
+creditfinelor.com
 crfovypue
 crnxueioe.bid
 croissed.info
@@ -1222,6 +1226,7 @@ cufjdfge.myftp.org
 cuiasef.myftp.org
 cukilanyok.hu
 cupana.space
+cupatrade.com
 customsearches.net
 cv.livehams.com
 cvhpuccaib.bid
@@ -1250,6 +1255,7 @@ d-d.live
 d-d.space
 d001.ddns.net
 d1e1rbybdt265x.cloudfront.net
+d2nz6secq3489l.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
 d3ddidv77grh0f.cloudfront.net
 d3dupdate.com
@@ -1696,6 +1702,7 @@ farfara.space
 fartiny.xyz
 fatayvywbebgdn.com
 fawhiybzs.bid
+faxing-mon.best
 fbbjlubvwmwd.com
 fbclinica.game-server.cc
 fblaster.com
@@ -2647,6 +2654,7 @@ jquerystatistics.org
 jrauyqdbit.bid
 jroqvbvw.info
 jrtawlpbusyg.com
+json.ama-prime-client.com
 jsozjlxamxrly.com
 jtbcsupport.site
 jtmfmeexjet.bid
@@ -2923,6 +2931,7 @@ laqiccblmxfewa.bid
 laricio.space
 laserveradedomaina.com
 latestpromotions.club
+latinumtrade.com
 laubeyrietechnology.com
 lauradesnoyers.com
 lauriertechnology.com
@@ -3001,6 +3010,7 @@ libre4.space
 librerty.space
 libres.space
 libressimo.space
+licatrade.com
 liceosilvestri.it
 liferat.space
 lifista.space
@@ -3174,11 +3184,13 @@ m.sighash.info
 m2mobili.com
 maalaimalar.com
 maboflgkaxqn.com
+maccatreck.com
 machieved.com
 macros1.space
 macros2.space
 macros3.space
 macros4.space
+macstockfolio.com
 mafndqbvdgkm.com
 magmonsterx1.xyz
 magmonsterx2.xyz
@@ -3520,6 +3532,7 @@ mytrade-agriculture.com
 myttherwalet.com
 mzkhhjueazkn.com
 n8.ahnlabinc.com
+nagsrsdfsudinasa.com
 nahvyfyfpffm.com
 naijafacemodel.com
 naligo.space
@@ -3528,6 +3541,7 @@ nametraff.com
 namjixxurjam.com
 nan.thanhale.com
 naomat.space
+narudina.com
 nathetsof.com
 naucmjbzmymdzr.bid
 naveria.website
@@ -4431,6 +4445,7 @@ remeno.space
 remotepx.net
 rencohep.com
 renhertfo.com
+repbaerray.pw
 repefwairfkx.com
 rertazmgduxp.com
 reservedoffers.club
@@ -4923,6 +4938,7 @@ statsinfo.space
 steamoctanepool.com
 steinh.space
 stenama.space
+stepbystepby.com
 stepinwatchcenter.se
 stereo-bit.fun
 stereo-bit.site
@@ -5112,6 +5128,8 @@ travelsanignacio.com
 travelsreview.world
 trelial.xyz
 treningmentalny.home.pl
+trezarus.com
+trezarus.net
 trigonella.space
 tripindiabycar.com
 triticum.space
