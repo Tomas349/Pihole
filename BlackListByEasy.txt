@@ -144,6 +144,7 @@ Webmain.work
 a-ga.me
 a-o.ninja
 a.pool.ml
+a.slunecnice.cz
 a2c491023580.com
 a2only.com
 a37ubfu6nmjxzcff.onion
@@ -248,6 +249,7 @@ ads.projectagoraservices.com
 adsbeacon.com
 adserver.ad4link.com
 adservex.media.net
+adservice.google.com
 adservice.google.sk
 adstat.red
 adstore.twilightparadox.com
@@ -260,6 +262,7 @@ adverticum.net
 advertompare.us
 advisorstat.space
 advstatecheck.sytes.net
+adx.adform.net
 adzcoin.miningpoolhub.com
 ae.minergate.com
 ae325.com
@@ -557,6 +560,7 @@ api.coinone.co.kr
 api.cointrend.club
 api.cryptokitties.co
 api.cryptonator.com
+api.deep.bi
 api.demo.cryptokitties.co
 api.durinsmine.com
 api.eminer.net
@@ -1482,8 +1486,11 @@ cdn.adless.io
 cdn.bibblio.org
 cdn.doublepimpssl.com
 cdn.lvsys.com
+cdn.onesignal.com
+cdn.onthe.io
 cdn.ravenjs.com
 cdn.runative-syndicate.com
+cdn.taboola.com
 cdn.zopim.com
 cdnbetter.xyz
 cdnfile.xyz
@@ -2251,6 +2258,7 @@ downloadsprimary.com
 doyogaand.com
 dpallyihgtgu.com
 dpkdwhfdrvxzcr.bid
+dpm.demdex.net
 dportsmirai.tk
 dpqytzwxohcd.bid
 dpwmloknxtuw.com
@@ -2391,6 +2399,7 @@ easygatepr.bid
 easyhash.io
 easytosay.org
 eatcells.com
+eb2.3lift.com
 ebay-global.publicvm.com
 ebd.cda.pl
 ebesty.com
@@ -2586,6 +2595,8 @@ esportgamingarena.com
 essextradecapital.com
 et-code.ru
 etacontent.com
+etarget.mgr.consensu.org
+etargetnet.com
 etbmvqjnfxtk.com
 etbrjgpsadke.com
 etggiddfdaqd.com
@@ -2857,6 +2868,7 @@ flooaiaubf.bid
 florestal.gov.br
 flotosen.com
 flowersbsz.com
+fls.doubleclick.net
 flutter-covid19.firebaseio.com
 flying-free.online
 flzelfqolfnf.com
@@ -3214,6 +3226,8 @@ goodpricepills.com
 goodthoughts4u.com
 googleanalytcs.com
 googleanalytics444.com
+googleoptimize.com
+googletagmanager.com
 goowurzdotcom.bid
 gopamdzgpdrwe.bid
 goredirect.party
@@ -3347,6 +3361,7 @@ gzkoehgbpozz.com
 gzqccijroe.bid
 gzumjmvqjkki.com
 gzyddiyiyme.bid
+h.imedia.cz
 h6e2at7du07f7a2ip.com
 h7de6mkn678k.tk
 habilitate.com
@@ -3396,6 +3411,7 @@ hatcalter.com
 hatevery.info
 hattifkklbo.bid
 hausblow.com
+hb.adscale.de
 hbbxkbjhiiue.bid
 hbchwmrqb.bid
 hbkcelqibvx.bid
@@ -3690,6 +3706,7 @@ iagsqudxpcfr.com
 iagvkdeienla.com
 iamitinc.com
 iansucrovvzbi.bid
+ib.adnxs.com
 ibeyqnjfjgsuob.bid
 ibljirpmxvav.bid
 ibqmccuuhjqc.com
@@ -3709,6 +3726,7 @@ icsglol.online
 icxssspyxquw.bid
 icyfqtjj.bid
 id-apple-sigin.com
+id5-sync.com
 idaex.market
 idayqh3zhj5j243t.onion
 idejenmqxhy.bid
@@ -3814,6 +3832,7 @@ inicializacion.com
 inmrjokdxmkh.com
 innovahost.club
 inogri.space
+inres.uspech.sk
 ins.techweb.com
 insanelyhappy.com
 insbrvwfrcgb.com
@@ -4540,6 +4559,7 @@ libdal.site
 libdam.site
 libdan.site
 libdas.site
+libertyglobalpaneu.tt.omtrdc.net
 libjs.co
 liboot.myftp.biz
 libre1.space
@@ -6248,6 +6268,7 @@ ptsdnvgn.bid
 pttmqpogyu.bid
 ptvjsyfayezb.com
 ptwnvihnxvg.bid
+pubads.g.doubleclick.net
 publiccouncil.org
 publicvm.com
 publisher.eboundservices.com
@@ -6763,6 +6784,7 @@ rtusxaoxemxy.com
 rtxunghyiwiq.com
 rtzhwgpmp.bid
 ru.com
+rubiconproject.com
 rubus.space
 rud.ddns.net
 ruijovxeffglgo.bid
@@ -6801,7 +6823,9 @@ rzjbuovkp.bid
 s-undo.com
 s.optnx.com
 s.zlinkm.com
+s0.2mdn.net
 s0.3eu.ru
+s1.adform.net
 s2150.t.eloqua.com
 s3.peing.net
 s657486201.t.eloqua.com
@@ -6907,6 +6931,7 @@ scontent-ams4-1.xx.fbcdn.net
 scontent-lax3-2.xx.fbcdn.net
 scoot-club.ru
 scopolia.space
+scoring.deep.bi
 scorzapesquisa.net
 scrabble.ikwb.com
 scrapbook-stickers.com
@@ -6966,6 +6991,7 @@ secure-mail-gateway.cc
 secure-telemetry.net
 secured-worldremitexpress.net
 securedchat.net
+securepubads.g.doubleclick.net
 securesearch.xyz
 securesearchnow.com
 securesmsing.com
@@ -7319,6 +7345,7 @@ ssltop.work
 ssmklfrn.bid
 ssobmhpxnjjp.bid
 ssowfsbps.bid
+ssp.imedia.cz
 ssuhghnjxbp.bid
 ssvolkkihcyp.com
 sswc.eu
@@ -7347,7 +7374,9 @@ statbfnl.sytes.net
 statement.poulsen.work
 static-02.flu.cc
 static-net.nut.cc
+static.cloudflareinsights.com
 static.hk.rs
+static.hotjar.com
 statistichecoronavirus.it
 statisticsdb.net
 stats-cdn.com
@@ -7511,6 +7540,7 @@ tablereservation.info
 taboola.com
 tagaras.gr
 tagoparisienne.com
+tags.tiqcdn.com
 takengoes.net
 takengone.net
 takengreen.net
@@ -9444,6 +9474,7 @@ tltotomasyon.com
 tltutoring.com
 tlwtaxexpress.com
 tlwvmgazi.icu
+tlx.3lift.com
 tlxbook.com
 tlynnhood.com
 tlzjkhlw.icu
@@ -10584,6 +10615,7 @@ track-a-snack.com
 track.celtra.com
 trackad.cz
 trackapurchase.com
+tracker.remp.sme.sk
 trackers.fitness
 trackhouseperformance.com
 trackhp.com
@@ -13829,6 +13861,7 @@ upback.online
 upbchina.com
 upbeetholistic.com
 upbscans.com
+upc.d2.sc.omtrdc.net
 upcmfya.icu
 upcoico.com
 upcoico.info
