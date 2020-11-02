@@ -145,6 +145,7 @@ a-ga.me
 a-o.ninja
 a.pool.ml
 a.slunecnice.cz
+a.teads.tv
 a2c491023580.com
 a2only.com
 a37ubfu6nmjxzcff.onion
@@ -192,6 +193,7 @@ account.daum.unikortv.com
 account.daurn.pe.hu
 accountantlive.icu
 accountnotify.com
+acdn.adnxs.com
 aced.ga
 acepol.com
 aclsqdpgeaik.com
@@ -246,6 +248,7 @@ ads.celtra.com
 ads.locationforexpert.com
 ads.nmhservices.sk
 ads.projectagoraservices.com
+ads.pubmatic.com
 adsbeacon.com
 adserver.ad4link.com
 adservex.media.net
@@ -480,6 +483,7 @@ analiticsx007.net
 analiticsx008.website
 analiticsx009.online
 analytics.blue
+analytics.cpex.cz
 anasjdzutdmv.com
 and2018-online0.site
 andera.com
@@ -591,6 +595,7 @@ api.multipool.us
 api.mymonero.com
 api.nanopool.org
 api.nicehash.com
+api.pohodo.sk
 api.poloniex.com
 api.pool.bitcoin.com
 api.pooldd.com
@@ -600,6 +605,7 @@ api.sumo.hashvault.pro
 api.sumo.spacepools.org
 api.sumokoin.hashvault.pro
 api.telegram.org
+api.traq.li
 api.ubq.mypool.online
 api.viaxmr.com
 api.xmr.mypool.online
@@ -926,6 +932,7 @@ bdozkocgkljj.com
 bdrfwkzu.bid
 bdyzewccsqpw.com
 beagamer.club
+beam.remp2020.com
 beasty.space
 beatfile01.ml
 beaudrysang.xyz
@@ -1068,6 +1075,7 @@ biosysltd.com
 biosysltd.org
 bipolarpatient.com
 birion.website
+bisko.mall.tv
 bitclub.network
 bitclubnetwork.com
 bitcoinethereum.eu
@@ -1395,10 +1403,12 @@ bznmgijglbpr.com
 bzyrhqbdldds.com
 bzz.utakatarefrain.com
 c.adsco.re
+c.imedia.cz
 c.nexusiotsolutions.net
 c.s-microsoft.com
 c0d3.ddns.net
 c0i8h8ac7e.bid
+c1.navrcholu.cz
 c3924a9ef60a134ac1350228eb00a6fd2dd0a086.net
 c4chtormey.site
 c4xe6et.top
@@ -1416,6 +1426,9 @@ calypsoempire.ddns.net
 camerahadong.net
 camerathanhha.com
 camillesanz.com
+campaign.denikn.cz
+campaign.remp2020.com
+campaigns.caroda.io
 campofreddo.it
 camprainbowgold.ru
 canada-qcrev.info
@@ -1484,17 +1497,23 @@ cdfyuyoyfxohj.bid
 cdhzxcwuibzk.com
 cdjs.online
 cdn-analytics.pl
+cdn-images.mailchimp.com
 cdn.adless.io
 cdn.bibblio.org
+cdn.cookielaw.org
 cdn.doublepimpssl.com
+cdn.jsdelivr.net
 cdn.lvsys.com
+cdn.mookie1.com
 cdn.onesignal.com
 cdn.onthe.io
+cdn.performax.cz
 cdn.ravenjs.com
 cdn.runative-syndicate.com
 cdn.siteswithcontent.com
 cdn.taboola.com
 cdn.zopim.com
+cdn2.caroda.io
 cdnbetter.xyz
 cdnfile.xyz
 cdns.ws
@@ -1968,6 +1987,8 @@ cyg2016.xyz
 cyrirvvrn.com
 cyrrbejq.bid
 cyxagtpeggjv.com
+cz-gmtdmp.mookie1.com
+cz.search.etargetnet.com
 czcbkaptwfmv.com
 czcyppdffuhh.com
 czgeitdowtlv.com
@@ -2028,6 +2049,7 @@ dart.wyn-fyctunnelswc.xyz
 dasayf.org
 dash.poolmining.eu
 data-center-fargo.com
+data.caroda.io
 daum.net.pl
 daum.unikortv.com
 daurn.org
@@ -2562,6 +2584,7 @@ enjoyableoffers.club
 enlocker.site
 entertainmentinat.com
 entinet.com
+entitlements.jwplayer.com
 entolex.com
 entona.website
 enuygunsporayakkabi.com
@@ -2637,6 +2660,7 @@ eurifsiooyof.bid
 europaea.ru
 europemis.com
 eurosportnews.info
+eus.rubiconproject.com
 eutklhuazxlt.com
 evasalineroalonso.com
 evengparme.com
@@ -2739,6 +2763,7 @@ fashion-live.net
 fashion-online.net
 fashionpark.info
 fastfixs.net
+fastlane.rubiconproject.com
 fasts-4fitnesestmz.world
 fatayvywbebgdn.com
 fats4burntips.com
@@ -2908,6 +2933,7 @@ folder.advmob.cn
 followsec7.wordpress.com
 fomosports.io
 fontanka.ru
+fonts.gstatic.com
 fontstaticloader.com
 foodforyou.info
 foodiez.online
@@ -2966,6 +2992,7 @@ freecontent.net
 freecontent.racing
 freecontent.stream
 freedominfo.net
+freegeoip.app
 freehostia.com
 freelancers-team.org
 freesubmissiondirectoryy.com
@@ -3016,6 +3043,7 @@ fuckaqunrcjj.bid
 fuhgvhuukl.bid
 fujiseed.sighash.info
 fulo-tv.ddns.net
+fundingchoicesmessages.google.com
 fundum8430.com
 funinat.com
 funinthesun4u.com
@@ -3122,6 +3150,7 @@ gemioni.com
 gemius.pl
 gengarde.com
 gentoo.org
+geolocation.onetrust.com
 geoplugin.net
 gereston.gotdns.ch
 gerotron.gotdns.ch
@@ -3129,6 +3158,7 @@ gerotumans.myftp.org
 gerusta.space
 gesund-bewegen.ch
 get-icons.ddns.net
+get.s-onetag.com
 getagift.info
 getbracesusa.com
 getcoronavirusalert.com
@@ -3215,6 +3245,7 @@ gniosksijt.bid
 gnipadiiodpa.com
 gnmjiishaldus.com
 go-trip.online
+go.eu.bbelements.com
 go.malwarebytes.com
 go2.mercy.ga
 goacestnzgrd.com
@@ -3433,6 +3464,7 @@ hbchwmrqb.bid
 hbkcelqibvx.bid
 hbmglobal.com
 hbn.smartmining.net
+hbopenbid.pubmatic.com
 hbrvwrdama.bid
 hbvnnwtoonhh.com
 hbzfhzpd.bid
@@ -3563,6 +3595,7 @@ hof-mulin.ch
 hofa.tk
 hogy.desk-top.work
 hohnstorf-basketball.de
+hojko.api.oneall.com
 hokaoneoneclearance.co.uk
 hokaoneoneclearanceuk.co.uk
 hokaoneoneclearanceuk.com
@@ -3712,6 +3745,7 @@ hyxoffthewall.com
 hyzncftkveum.com
 hzsod71wov.me
 hzwxkqnqrdfv.com
+i.ctnsnet.com
 i.s-microsoft.com
 i.ubm-us.net
 i24.com.ua
@@ -4032,6 +4066,7 @@ jerseygameengine.com
 jertwakjcaym.com
 jevijshpvnwm.com
 jezqighae.bid
+jf.revolvermaps.com
 jf71qh5v14.com
 jfaqiomgvajb.com
 jfcofvhuqzdg.bid
@@ -4128,7 +4163,10 @@ jquerystatistics.org
 jrauyqdbit.bid
 jroqvbvw.info
 jrtawlpbusyg.com
+js-agent.newrelic.com
+js.agkn.com
 jsc.adskeeper.co.uk
+jscdn.yieldbird.com
 jschef.com
 json.ama-prime-client.com
 json.gp
@@ -4761,6 +4799,7 @@ lroieivnhoojo.bid
 lroywnhohfrj.com
 lrpcokbf.bid
 lrwwnbjiv.com
+ls.hit.gemius.pl
 lsdslab.com
 lsegvhvzrpqc.com
 lsghawrw.bid
@@ -5350,6 +5389,7 @@ naiyafly.com
 naiyal.com
 najesticlooms.com
 naligo.space
+namel.net
 namequery.nettrace.co.za
 namethatporn.com
 nametraff.com
@@ -6138,6 +6178,7 @@ pktgargbhjmo.com
 pkucwwgcnuxzo.bid
 plantbased-community.com
 platform-lookaside.fbsbx.com
+platform.twitter.com
 play.web.vidoza.net
 player.h-cdn.com
 playerassets.info
@@ -6151,6 +6192,7 @@ pllvsqicx.bid
 plokxn.com
 plotor.space
 plquutxxewil.com
+plus.google.com
 plusgoog1e.com
 plyftjxmrxrk.com
 plymouthsgottalent.com
@@ -6234,6 +6276,8 @@ pr0gram.org
 pradabudapest.com
 pradnya.design
 praeicwgzapf.com
+prd.jwpltx.com
+prebid-server.rubiconproject.com
 predf-tv.ddns.net
 predoxing.tk
 premierproductions.info
@@ -6262,6 +6306,7 @@ prjywixf.bid
 prncfucwvi.bid
 prnxtmtbbqs.bid
 pro-navor.com
+pro.hit.gemius.pl
 proapp.icu
 process-secure.services
 programs-tv.ru
@@ -6301,6 +6346,7 @@ ptwnvihnxvg.bid
 pubads.g.doubleclick.net
 publiccouncil.org
 publicvm.com
+publisher.caroda.io
 publisher.eboundservices.com
 pubmatic.com
 pubyun.com
@@ -6861,6 +6907,7 @@ s2150.t.eloqua.com
 s3.peing.net
 s657486201.t.eloqua.com
 s7-airlines.net
+s7.addthis.com
 s8t.teads.tv
 s9kkremkr0.com
 saazer.space
@@ -6969,6 +7016,7 @@ scrapbook-stickers.com
 scrapping.cc
 screenwatch.yournewtab.com
 screwfix.com
+script.idvert.cz
 scripts.mit.edu
 scrisoaredelamosul.ro
 scrltyokacghvd.bid
@@ -7018,8 +7066,10 @@ seaxhrqc.bid
 sebalkevetecs.com
 secangel7d.wordpress.com
 secao.org
+secure-assets.rubiconproject.com
 secure-mail-gateway.cc
 secure-telemetry.net
+secure.quantserve.com
 secured-worldremitexpress.net
 securedchat.net
 securepubads.g.doubleclick.net
@@ -7180,6 +7230,8 @@ sjnfgvjizo.bid
 sjp-investment-funds.com
 sjp-ut.com
 sjtevvoviqhe.com
+sk.adocean.pl
+sk.hit.gemius.pl
 ska4ka.com
 skagenyoga.com
 skategirlchina.com
@@ -7311,6 +7363,7 @@ sperry-marine.com
 spfrlpjmvkmq.com
 spicydesigner.com
 spiegelburgsommerkinder.com
+spir.hit.gemius.pl
 spirantra.space
 splashreadymade.com
 spocfamily.com
@@ -7367,6 +7420,7 @@ ssjhkvwjoovf.com
 sskknyxzaixws.com
 ssl.dyn-dns.com
 ssl.lcrest.com
+ssl.p.jwpcdn.com
 ssl2.ahnlabinc.com
 ssl2.dyn-tracker.com
 ssloemwiszaz.com
@@ -7406,7 +7460,10 @@ statbfnl.sytes.net
 statement.poulsen.work
 static-02.flu.cc
 static-net.nut.cc
+static.ads-twitter.com
+static.chartbeat.com
 static.cloudflareinsights.com
+static.doubleclick.net
 static.hk.rs
 static.hotjar.com
 statistichecoronavirus.it
@@ -10647,10 +10704,12 @@ traceylee.info
 traceyordinola.com
 trachanhtuoi.com
 track-a-snack.com
+track.adform.net
 track.celtra.com
 trackad.cz
 trackapurchase.com
 tracker.azet.sk
+tracker.beam.denikn.cz
 tracker.remp.sme.sk
 trackers.fitness
 trackhouseperformance.com
@@ -12718,6 +12777,7 @@ u2rb.com
 u2te.xyz
 u35358.com
 u3betreuung-raeren.com
+u5.investingchannel.com
 u5o5pbw7m.top
 u7cymh6e1.xyz
 u7news.com
@@ -13995,6 +14055,7 @@ upplevelsekartan.com
 upqbxukuo.icu
 uprelation.com
 uprightventuresinc.com
+uprimp.com
 uprn-group.online
 uproarinezot.online
 uprohub.com
@@ -19692,6 +19753,7 @@ widerightvintage.com
 wideseas.com
 widespreaddelivery.com
 widetrade-org.com
+widgets.sprinklecontent.com
 widowsonfire.com
 widowswarriorwon.com
 widowwarrior-won.com
@@ -26445,6 +26507,7 @@ zet.one
 zetacloudteam.com
 zetamob.com
 zetastress.net
+zetcode.com
 zetep-it.com
 zetkino.online
 zettasolucionesgraficas.com
