@@ -4288,6 +4288,7 @@ jrtawlpbusyg.com
 js-agent.newrelic.com
 js.agkn.com
 jsc.adskeeper.co.uk
+jscdn.yieldbird.com
 jschef.com
 jsdelivr.net
 json.ama-prime-client.com
@@ -6862,6 +6863,7 @@ reasedoper.pwstatistic.date
 rebecca-evelyn.site
 reblog.hu
 recuperacionvive.duckdns.org
+recycle.topky.sk
 recycloped.com
 redcare.com
 redictchajaponcov19.com
@@ -27650,7 +27652,6 @@ zowifi.com
 zowijx.icu
 zoyaroizmaninsurance.com
 zoyer.online
-zoznamstatic.sk
 zozoshop.store
 zozowish.com
 zp-remtech.com
